@@ -6,21 +6,3 @@ This project shows how to perform common Natural Language Processing (NLP) tasks
 
 The dataset comes from ["Rent the Runway"](https://cseweb.ucsd.edu//~jmcauley/datasets.html#clothing_fit) and is comprised of user reviews on clothing items, their ratings on fit, and other metadata about the user (i.e. gender, height, size, age, the reason for renting) and the item (i.e. category). It is a nice mixture of data types, but most importantly, lots of text! 
 
-In order to be successful, you should have:
-
-**Intermediate knowledge of Python**
-- list comprehension
-- for loops and while loops
-- installing packages
-- creating and using functions
-- using NumPy and Pandas
-
-**Basic understanding of NLP**
-- What it is
-- Data preparation steps and why they're important
-- Familiarity, though not necessarily expert proficiency, in some NLP tasks
-
-**Brief usage of Hugging Face**
-
-
-Most of all, you should have a curiosity about NLP workflows, specifically those in Hugging Face using transformers!
