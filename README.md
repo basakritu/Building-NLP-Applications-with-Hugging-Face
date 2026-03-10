@@ -1,4 +1,4 @@
-Welcome! This project helps to learn how to perform common Natural Language Processing (NLP) tasks using Hugging Face. Some of these tasks include:
+This project shows how to perform common Natural Language Processing (NLP) tasks using Hugging Face. Some of these tasks include:
 - **sentiment analysis** (i.e. categorizing text as negative or positive);
 - **text embedding** (i.e. transforming a piece of text into a numerical, n-dimensional vector, representation);
 - **semantic search** (i.e. matching a query with the most appropriate result based on embeddings);
